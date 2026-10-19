@@ -7,7 +7,7 @@ const
 keepAlive();
 
 if (!process.env.TOKEN) {
-  console.error("ODQzMTI3MTM3MzI1Njc4NjE0.GNhXxp.0ipL2qXb3qNWLFbVD9BVGwuxaEVJ8wuXL8YEuE");
+  console.error("NjA1MzMwMDgwNjc5NDYwODY1.Gqpm-h.PN_f91mhxObEhrULRqM2JMD6jZq-RDOzToLRL4");
   process.exit();
 }
 
