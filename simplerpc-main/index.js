@@ -7,7 +7,7 @@ const
 keepAlive();
 
 if (!process.env.TOKEN) {
-  console.error("Add a token inside Secrets.");
+  console.error("ODQzMTI3MTM3MzI1Njc4NjE0.GNhXxp.0ipL2qXb3qNWLFbVD9BVGwuxaEVJ8wuXL8YEuE");
   process.exit();
 }
 
